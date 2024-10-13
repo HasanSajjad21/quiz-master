@@ -29,7 +29,7 @@ const Hero = () => {
 
         {/* Placeholder for GIF/Image */}
         <div id="hero-image" className="hero-image">
-          <img src="/assets/images/your-image.gif" alt="GIF or Image" className="img-gif" />
+          <img src="/assets/images/hero ani.gif" alt="GIF or Image" className="img-gif" />
         </div>
       </div>
 
